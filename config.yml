@@ -1,0 +1,51 @@
+baseURL: ""
+languageCoAccessKeysde: en-us
+title: William East
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: analog
+      name: projects
+      url: /projects/
+      weight: 10
+    - identifier: digital
+      name: objects
+      url: /objects/
+      weight: 20
+    - identifier: music
+      name: music
+      url : /music/
+      weight: 30
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 40
+
+params:
+  env: production
+  keywords: [hacking, modding, breaking]
+  # author: William East
+  DateFormat: "02 Jan 2005"
+  defaultTheme: dark # dark, light, auto
+  disableThemeToggle: true # prevent the theme toggling feature. (always dark)
+  # ShowBreadCrumbs: true
+  disableSpecial1stPost: true # not sure what this does yet exactly.
+  ShowCodeCopyButtons: true
+  # ShowReadingTime: true
+  ShowRssButtonInSectionTermList: false
+  comments: true
+  VisitCount: true
+  hideFooter: false
+  homeInfoParams:
+    Title: Hi! Welcome to my little corner of the internet.
+    Content:
+    imageUrl:
+
+  socialIcons:
+    - name: github
+      url: "https//github.com/williameast"
+    - name: email
+      url: "mailto:william.east@mail.mcgill.ca"
+    - name: soundcloud
+      url: "https//soundcloud.com/fraik"
