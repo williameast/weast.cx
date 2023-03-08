@@ -15,9 +15,10 @@ nature of the industry entails.
 
 I completed my masters in Political Science at McGill University in Canada in
 2019, and am now based in Berlin. I have worked on a couple of media projects in the
-past, such as the wonderful (Wind of Change
-Podcast)[https://crooked.com/podcast-series/wind-of-change/] with Patrick Keefe,
-and I used to write for (Nation)[http://nationnews.ca/].
+past, such as the wonderful [Wind of Change
+Podcast](https://crooked.com/podcast-series/wind-of-change/) with Patrick Keefe,
+and I used to write for [Nation](http://nationnews.ca/) on the political strife
+of First Nations Communities in Québec.
 
 I enjoy programming, chess, electronic music and am currently building out my
 workshop, where I am make silly little electronic devices that try to bring

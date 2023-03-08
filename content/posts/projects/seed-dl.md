@@ -1,6 +1,5 @@
 ---
 title: "My seedbox managing tool: seed-dl"
-date: "1999-01-01"
 draft: false
 weight: 1
 url: "/projects/"
