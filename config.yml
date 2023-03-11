@@ -36,7 +36,7 @@ params:
   ShowRssButtonInSectionTermList: false
   comments: true
   VisitCount: true
-  hideFooter: false
+  hideFooter: true
   homeInfoParams:
     Title: Hi! Welcome to my little corner of the internet.
     Content:
