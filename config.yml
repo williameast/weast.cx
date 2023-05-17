@@ -24,7 +24,7 @@ menu:
 
 params:
   env: production
-  keywords: [hacking, modding, breaking]
+  keywords: [synthDIY, modding, art]
   # author: William East
   DateFormat: "02 Jan 2005"
   defaultTheme: dark # dark, light, auto
@@ -38,7 +38,7 @@ params:
   VisitCount: true
   hideFooter: true
   homeInfoParams:
-    Title: Hi! Welcome to my little corner of the internet.
+    Title: B O N G I O R N O
     Content:
     imageUrl:
 
