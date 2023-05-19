@@ -13,10 +13,10 @@ menu:
       name: objects
       url: /objects/
       weight: 20
-    - identifier: music
-      name: music
-      url : /music/
-      weight: 30
+    # - identifier: music
+    #   name: music
+    #   url : /music/
+    #   weight: 30
     - identifier: about
       name: about
       url: /about/

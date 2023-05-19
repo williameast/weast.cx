@@ -1,5 +1,5 @@
 ---
-title: "A table the colourful person"
+title: "A table the colourfully minded person"
 draft: false
 url: "/objects/"
 ---
