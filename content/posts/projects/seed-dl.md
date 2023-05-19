@@ -2,6 +2,7 @@
 title: "My seedbox managing tool: seed-dl"
 draft: false
 weight: 1
+url: "/projects/seed-dl"
 ---
 
 # Overview

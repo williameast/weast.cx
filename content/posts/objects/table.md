@@ -1,5 +1,5 @@
 ---
-title: "A table the colourfully minded person"
+title: "A table for the colourfully minded person"
 draft: false
 ---
 

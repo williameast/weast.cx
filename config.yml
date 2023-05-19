@@ -3,24 +3,24 @@ languageCoAccessKeysde: en-us
 title: William East
 theme: PaperMod
 
-menu:
-  main:
-    - identifier: analog
-      name: projects
-      url: /projects/
-      weight: 10
-    - identifier: digital
-      name: objects
-      url: /objects/
-      weight: 20
-    # - identifier: music
-    #   name: music
-    #   url : /music/
-    #   weight: 30
-    - identifier: about
-      name: about
-      url: /about/
-      weight: 40
+# menu:
+#   main:
+#     - identifier: analog
+#       name: projects
+#       url: /projects/
+#       weight: 10
+#     - identifier: digital
+#       name: objects
+#       url: /objects/
+#       weight: 20
+#     - identifier: music
+#       name: music
+#       url : /music/
+#       weight: 30
+#     - identifier: about
+#       name: about
+#       url: /about/
+#       weight: 40
 
 params:
   env: production
@@ -29,7 +29,7 @@ params:
   DateFormat: "02 Jan 2005"
   defaultTheme: dark # dark, light, auto
   disableThemeToggle: true # prevent the theme toggling feature. (always dark)
-  # ShowBreadCrumbs: true
+  ShowBreadCrumbs: true
   disableSpecial1stPost: true # not sure what this does yet exactly.
   ShowCodeCopyButtons: true
   # ShowReadingTime: true
