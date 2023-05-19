@@ -130,12 +130,12 @@ this frankensteinian creation looks like on this inside. notice the additional
 battery, the ungodly amount of load-bearing solder and the general messiness of
 it.
 
-![image](/bluepod_open.jpg)
+![image](/images/bluepod_open.jpg)
 
 And the button configuration involved using a clicky button from an arduino set,
 a hot glue gun and a lot of patience.
 
-![image](/bluepod_closeup.jpg)
+![image](/images/bluepod_closeup.jpg)
 
 But it works! I will be posting a how-to when I get round to it. Now I rock an
 old iPod, and I have been using it for a while now. It feels a bit gimmicky but
