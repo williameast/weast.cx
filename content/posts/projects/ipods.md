@@ -2,10 +2,10 @@
 title: "Restoring old iPod Classics"
 draft: false
 weight: 2
-url: "/projects/"
+url: "/projects/ipods"
 ---
 
-# the rundown
+# The rundown
 
 ever since the iPod classic came out 15? 20? years ago, I was in love with them.
 Being able to carry around your entire music library on a nifty device with a
@@ -30,22 +30,23 @@ never cared much for Bluetooth, so I bit the bullet, purchased my first
 the next milestone was when I downloaded Spotify. The possibility of listening
 to _anything, anywhere_ was enticing. In practice though, I didn't meticulously
 reproduce my music library in the app, and instead hopped from one album or
-playlist to another, often letting the algorithm choose my music for me. I
-talked to a few friends about this phenomenon, and the term "algorythm-core"
-popped up.
+playlist to another, often letting the algorithm choose my music for me.
 
-- algo-core is a type of music that you believe you have ventured into sounds of
-  obscurity, but this is a learned obscurity, and everyone is following a
-  similar obscure past
-  - the youtube algo used to be amazing for finding music. it changed, and
-    people felt that.
-- Spotify's level of operation is Albums, not songs.
+<!-- I talked to a few friends about this phenomenon, and the term "algorythm-core" -->
+<!-- popped up. -->
+
+<!-- - algo-core is a type of music that you believe you have ventured into sounds of -->
+<!--   obscurity, but this is a learned obscurity, and everyone is following a -->
+<!--   similar obscure past -->
+<!--   - the youtube algo used to be amazing for finding music. it changed, and -->
+<!--     people felt that. -->
+<!-- - Spotify's level of operation is Albums, not songs. -->
 
 When streaming became popular, I stopped playing my stored songs entirely. I put
 away my iPod and forgot about it. Spotify was so convenient Why would I ever go
 back to what was before?
 
-# the brick wall
+# The brick wall
 
 When the first few albums I loved were not available in spotify, I shrugged. I
 would just stream them from youtube. after a while, I just stopped listening to
@@ -90,7 +91,7 @@ their crappy quality, awful filename tagging, inconsistent formatting, but it
 felt unique, this colleciton of records and snippets existed nowhere else. It's
 a wonder I never lost these 100GiB of nostalgia along the way.
 
-# enter the iPod video
+# Enter the iPod video
 
 Lo an behold, the receptacle of this digital archive was mostly accessed through
 the spinwheels and clicks of the iPod Classic. I wanted that experience again -
@@ -118,7 +119,7 @@ As you gain a lot of space inside the enclosure, suddenly your old iPod becomes 
 iconic and surprisingly hackable little device. dip your toe into the world of iPod refurbishment, you'll find all
 sorts of wacky projects that people have come up with.
 
-# bluetooth
+# and finally, Bluetooth
 
 I opted to use the space on my iPod to add bluetooth compatibility. like all things in the 21st century, the appearance counts. From the outside,
 nothing indicates that the iPod has been hacked together with a bluetooth chip.

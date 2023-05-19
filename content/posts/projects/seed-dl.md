@@ -2,8 +2,10 @@
 title: "My seedbox managing tool: seed-dl"
 draft: false
 weight: 1
-url: "/projects/"
+url: "/projects/seed-dl"
 ---
+
+# Overview
 
 [Seed-dl](https://github.com/williameast/seed-dl) is a tool to make managing
 torrent files easier when you use a seedbox. With a single command it can
