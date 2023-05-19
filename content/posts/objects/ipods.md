@@ -2,7 +2,7 @@
 title: "Restoring old iPod Classics"
 draft: false
 weight: 2
-url: "/objects/"
+url: "/ipods/"
 ---
 
 # The rundown
