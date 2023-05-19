@@ -13,4 +13,6 @@ torrent files easier when you use a seedbox. With a single command it can
 - download the files, throwing them into a directory depending on their file
   type
 
-It is my first proper "project" and accordingly, it is still a bit bare-bones.
+It keeps a register of your local .torrent files, so if you share a seedbox or a
+server with a friend, you can download only your own files automatically. build
+isolation with poetry means it runs on anything poetry runs.
