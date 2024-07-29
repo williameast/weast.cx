@@ -29,7 +29,7 @@ params:
   DateFormat: "02 Jan 2005"
   defaultTheme: dark # dark, light, auto
   disableThemeToggle: true # prevent the theme toggling feature. (always dark)
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   disableSpecial1stPost: true # not sure what this does yet exactly.
   ShowCodeCopyButtons: true
   # ShowReadingTime: true
